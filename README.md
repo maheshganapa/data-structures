@@ -1,2 +1,2 @@
 # data-structures
-Developing data structures using  java
+Developing data structures using  java technologies.
